@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-jwt-auth",
+  "name": "node",
   "version": "1.0.0",
-  "description": "Nodejs-JWT-Authentication-with-MySQL-Sequelize-ORM",
+  "description": "Nodejs",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
